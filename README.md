@@ -70,7 +70,8 @@ Windows: 60%
 
 ## Education
 
-Göteborgs Tekniska Institut
+**Göteborgs Tekniska Institut**
+
 Aug 2008 – May 2011
 
 Learning operating system, native and web development, networking, PC-support, and networks.
@@ -82,6 +83,7 @@ Learning operating system, native and web development, networking, PC-support, a
 ## Work
 
 **Freelancer**
+
 _Jun 2013 – present_
 
 Working as a freelance IT consult and web developer. Building web applications and helping people with tech problems.
