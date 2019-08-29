@@ -89,7 +89,7 @@ Windows:       =============================>60%
 ```
 
 ```javascript
-const info = await fetch("https://myEdu.io/luxwarp")
+const info = await fetch("https://myedu.io/luxwarp")
   .then(res => res.json())
   .then(data => data);
 
@@ -109,7 +109,7 @@ Learning operating system, native and web development, networking, PC-support, a
 ---
 
 ```javascript
-const info = await fetch("https://myEdu.io/luxwarp")
+const info = await fetch("https://myjobs.io/luxwarp")
   .then(res => res.json())
   .then(data => data);
 
