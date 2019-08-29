@@ -97,7 +97,7 @@ info.renderAs("structured-console");
 ```
 
 ```output
-Education                                    1/1
+Education
 ==============================================================
 
 Göteborgs Tekniska Institut
@@ -107,7 +107,8 @@ Aug 2008 – May 2011
 Learning operating system, native and web development,
 networking, PC-support, and networks.
 
-https://gti.se
+https://gti.se                                             1/1
+______________________________________________________________
 ```
 
 ```javascript
