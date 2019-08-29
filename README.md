@@ -93,123 +93,139 @@ const info = await fetch("https://myedu.io/luxwarp")
   .then(res => res.json())
   .then(data => data);
 
-info.renderAs("markdown");
+info.renderAs("structured-console");
 ```
 
-## Education
+```output
+Education                                    1/1
+==============================================================
 
-**Göteborgs Tekniska Institut**
+Göteborgs Tekniska Institut
 
-_Aug 2008 – May 2011_
+Aug 2008 – May 2011
 
-Learning operating system, native and web development, networking, PC-support, and networks.
+Learning operating system, native and web development,
+networking, PC-support, and networks.
 
-[Göteborgs Tekniska Institut](https://gti.se)
-
----
+https://gti.se
+```
 
 ```javascript
 const info = await fetch("https://myjobs.io/luxwarp")
   .then(res => res.json())
   .then(data => data);
 
-info.renderAs("markdown");
+info.renderAs("structured-console");
 ```
 
-## Work
+```output
+Work
+==============================================================
 
-**Freelancer**
+Freelancer
 
-_Jun 2013 – present_
+Jun 2013 – present
 
-Working as a freelance IT consult and web developer. Building web applications and helping people with tech problems.
+Working as a freelance IT consult and web developer.
+Building web applications and helping people with
+tech problems.
 
-[Codeiolo.org](https://codeiolo.org)
+https://codeiolo.org                                       1/7
+______________________________________________________________
 
----
+Securitas
 
-**Securitas**
-
-_Jun 2015 – May 2019_
+Jun 2015 – May 2019
 
 Working as a security guard on patrol in Gothenburg and Lerum.
 
-[Securitas.se](https://securitas.se)
+https://securitas.se                                       2/7
+______________________________________________________________
 
----
+Crazyride
 
-**Crazyride**
-
-_Nov 2013 – March 2015_
+Nov 2013 – March 2015
 
 Customer service for web shop selling led lights.
 
-[Crazyride.se](https://crazyride.se)
+https://crazyride.se                                       3/7
+______________________________________________________________
 
----
+MacSupport
 
-**MacSupport**
+Jul 2011 – Jan 2013
 
-_Jul 2011 – Jan 2013_
+IT Consultant to corporate customers,
+network management,servers and clients.
+Also worked a lot with deployment to
+school clients (K12 / one-to-one system.).
+Internal IT responsible for mail server,
+file server, network and cloud services.
 
-IT Consultant to corporate customers, network management, servers
-and clients. Also worked a lot with deployment to school
-clients (K12 / one-to-one system.). Internal IT responsible
-for mail server, file server, network and cloud services.
+https://macsupport.se                                      4/7
+______________________________________________________________
 
-[MacSupport.se](https://macsupport.se)
+Intern
+==============================================================
 
----
+Warpnine
 
-## Intern
-
-**Warpnine**
-
-_Oct 2010 – Dec 2010_
+Oct 2010 – Dec 2010
 
 Web developer and some internal IT support.
 
-[Warpnine.se](http://www.warpnine.se/)
+http://www.warpnine.se/                                    5/7
+______________________________________________________________
 
----
+Micropter
 
-**Micropter**
+April 2010 – Jul 2010
 
-_April 2010 – Jul 2010_
+PC-technician and web developer                            6/7
+______________________________________________________________
 
-PC-technician and web developer
+SalesOnNet
 
----
+Aug 2006 – May 2008
 
-**SalesOnNet**
+PC-technician                                              7/7
+______________________________________________________________
+```
 
-_Aug 2006 – May 2008_
-PC-technician
+```shell
+luxwarp@luxlop:~$ sudo shutdown --output-log
+```
 
----
+```output
+Misc
+==============================================================
 
-## Misc
+Languages
+  * English
+    * Speak: Good
+    * Write: Good
+  * Swedish
+    * Speak: Fluently
+    * write: Fluently
 
-I speak and write both Swedish and English.
 
 I have driver license for car and have my own car.
 
----
+References
+==============================================================
 
-## References
-
-**Securitas Göteborg**
+Securitas Göteborg
 
 John Bohman - Group leader
 
 0702997309
+______________________________________________________________
 
----
-
-**MacSupport**
+MacSupport
 
 Jan Ringedal - Office manager
 
 j.ringedal@macsupport.se
 
 031-7264300
+```
