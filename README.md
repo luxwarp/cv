@@ -1,232 +1,166 @@
-```javascript
-const info = await fetch("https://superpeoplesearch.org/luxwarp")
-  .then(res => res.json())
-  .then(data => data);
+# CV
 
-console.log(info);
-```
+## Info
 
-```json
-{
-  "name": "Mikael 'Luxwarp' Carlsson",
-  "birth": 19900325,
-  "address": {
-    "street": "Citrongatan 14 B",
-    "zip": 44155,
-    "city": "Alingsås",
-    "country": "Sweden"
-  },
-  "phone": "+46709393498",
-  "email": "mikael.m.carlsson@gmail.com",
-  "website": "https://codeiolo.org"
-}
-```
+Mikael 'Luxwarp' Carlsson
 
-```shell
-luxwarp@luxlop:~$ whoami --biography
-```
+Citrongatan 14 B
 
-```output
-About 'Luxwarp'
-===============================================================
+44155 Alingsås
 
-My name is Mikael Carlsson, I am 29 years old and
-I live in Alingsås, 50km north of Gothenburg, Sweden.
++46709393498
 
-In my whole life I have been interested in computers,
-tech and development. My greatest passion
-is web development. I can build websites, web applications
-and handle both front-end and back-end development.
+mikael.m.carlsson@gmail.com
 
-On my spare time when I don’t sit behind the computer
-I love to walk and train my dogs and spending
-time with my fiancee.
+19900325-1577
 
-I am a positive person who is very stubborn and
-tries to solve problems that may arise. With the
-ability to quickly take in new information and
-knowledge, I quickly learn systems and tasks. I’m
-always willing to learn new things because the
-brain can not be full.
-```
+---
 
-```shell
-luxwarp@luxlop:~$ myskills --render-console
-```
+## About
 
-```output
-# Skills for user 'Luxwarp'       Rendered: 0.2s
-===============================================================
+My name is Mikael Carlsson, I am 28 years old and I live in Alingsås, 50km north of Gothenburg, Sweden.
 
-# Web
+In my whole life I have been interested in computers, tech and development. My greatest passion is web development. I can build websites, web applications and handle both front-end and back-end development.
 
-HTML:          =======================================>80%
-CSS:           ====================================>70%
-JS/Node:       ====================================>70%
-PHP:           ==============>40%
-_______________________________________________________________
+On my spare time when I don’t sit behind the computer I love to walk and train my dog and spending time with my girlfriend.
 
-# Frameworks
+I am a positive person who is very stubborn and tries to solve problems that may arise. With the ability to quickly take in new information and knowledge, I quickly learn systems and tasks. I’m always willing to learn new things because the brain can not be full.
 
-VueJS:         =============================>60%
-ExpressJS:     =============================>60%
-_______________________________________________________________
+---
 
-# Tools
+## Skills
 
-Git:           ====================================>70%
-NPM:           ====================================>70%
-Inkscape:      =======================>50%
-VS Code:       =================================>65%
-_______________________________________________________________
+I have a lot of knowledge in different areas.
 
-# Operating systems
+**Web**
 
-Ubuntu:        ====================================>70%
-OSX:           =================================>65%
-Windows:       =============================>60%
+HTML: 80%
 
-```
+CSS: 70%
 
-```javascript
-const info = await fetch("https://myedu.io/luxwarp")
-  .then(res => res.json())
-  .then(data => data);
+JS / NodeJS: 70%
 
-info.renderAs("structured-console");
-```
+PHP: 50%
 
-```output
-Education
-==============================================================
+**Frameworks**
+
+VueJS: 60%
+
+ExpressJS: 60%
+
+**Tools**
+
+Git: 70%
+
+NPM: 70%
+
+Inkscape: 50%
+
+VS Code: 65%
+
+**Operating systems**
+
+Ubuntu: 70%
+
+OSX: 65%
+
+Windows: 60%
+
+---
+
+## Education
 
 Göteborgs Tekniska Institut
-
 Aug 2008 – May 2011
 
-Learning operating system, native and web development,
-networking, PC-support, and networks.
+Learning operating system, native and web development, networking, PC-support, and networks.
 
-https://gti.se                                             1/1
-______________________________________________________________
-```
+[Göteborgs Tekniska Institut](https://gti.se)
 
-```javascript
-const info = await fetch("https://myjobs.io/luxwarp")
-  .then(res => res.json())
-  .then(data => data);
+---
 
-info.renderAs("structured-console");
-```
+## Work
 
-```output
-Work
-==============================================================
+**Freelancer**
+_Jun 2013 – present_
 
-Freelancer
+Working as a freelance IT consult and web developer. Building web applications and helping people with tech problems.
 
-Jun 2013 – present
+[Codeiolo.org](https://codeiolo.org)
 
-Working as a freelance IT consult and web developer.
-Building web applications and helping people with
-tech problems.
+**Securitas**
 
-https://codeiolo.org                                       1/7
-______________________________________________________________
-
-Securitas
-
-Jun 2015 – May 2019
+_Jun 2015 – May 2019_
 
 Working as a security guard on patrol in Gothenburg and Lerum.
 
-https://securitas.se                                       2/7
-______________________________________________________________
+**Crazyride**
 
-Crazyride
+_Nov 2013 – March 2015_
 
-Nov 2013 – March 2015
+Customer service for web shop.
 
-Customer service for web shop selling led lights.
+**MacSupport**
 
-https://crazyride.se                                       3/7
-______________________________________________________________
+_Jul 2011 – Jan 2013_
 
-MacSupport
+IT Consultant to corporate customers, network management, servers and clients. Also worked a lot with deployment to school clients (K12 / one-to-one system.). Internal IT responsible for mail server, file server, network and cloud services.
 
-Jul 2011 – Jan 2013
+---
 
-IT Consultant to corporate customers,
-network management,servers and clients.
-Also worked a lot with deployment to
-school clients (K12 / one-to-one system.).
-Internal IT responsible for mail server,
-file server, network and cloud services.
+## Intern
 
-https://macsupport.se                                      4/7
-______________________________________________________________
+**Warpnine**
 
-Intern
-==============================================================
-
-Warpnine
-
-Oct 2010 – Dec 2010
+_Oct 2010 – Dec 2010_
 
 Web developer and some internal IT support.
 
-http://www.warpnine.se/                                    5/7
-______________________________________________________________
+**Micropter**
 
-Micropter
+_April 2010 – Jul 2010_
 
-April 2010 – Jul 2010
+PC-technician and web developer
 
-PC-technician and web developer                            6/7
-______________________________________________________________
+**SalesOnNet**
 
-SalesOnNet
+_Aug 2006 – May 2008_
 
-Aug 2006 – May 2008
+PC-technician
 
-PC-technician                                              7/7
-______________________________________________________________
-```
+---
 
-```shell
-luxwarp@luxlop:~$ sudo shutdown --output-log
-```
-
-```output
-Misc
-==============================================================
+## Misc
 
 Languages
-  * English
-    * Speak: Good
-    * Write: Good
-  * Swedish
-    * Speak: Fluently
-    * write: Fluently
 
+- English
+  - Speak: Good
+  - Write: Good
+- Swedish
+  - Speak: Fluently
+  - write: Fluently
 
 I have driver license for car and have my own car.
 
-References
-==============================================================
+---
 
-Securitas Göteborg
+## References
 
-John Bohman - Group leader
+**Securitas Göteborg**
+
+Group leader
+
+John Bohman
 
 0702997309
-______________________________________________________________
 
-MacSupport
+**MacSupport**
 
-Jan Ringedal - Office manager
+Office manager
+
+Jan Ringedal
 
 j.ringedal@macsupport.se
 
 031-7264300
-```
