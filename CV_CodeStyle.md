@@ -36,7 +36,7 @@ I live in Alingsås, 50km north of Gothenburg, Sweden.
 In my whole life I have been interested in computers,
 tech and development. My greatest passion
 is web development. I can build websites, web applications
-and handle both front-end and back-end development.
+and handle both frontend and backend development.
 
 On my spare time when I don’t sit behind the computer
 I love to walk and train my dogs and spending
@@ -55,7 +55,7 @@ luxwarp@luxlop:~$ myskills --render-console
 ```
 
 ```output
-# Skills for user 'Luxwarp'       Rendered: 0.2s
+# Skills for user 'Luxwarp'                      Rendered: 0.2s
 ===============================================================
 
 # Web
@@ -83,7 +83,7 @@ _______________________________________________________________
 # Operating systems
 
 Ubuntu:        ====================================>70%
-OSX:           =================================>65%
+MacOS:         =================================>65%
 Windows:       =============================>60%
 
 ```
@@ -97,15 +97,16 @@ info.renderAs("structured-console");
 ```
 
 ```output
-Education
+# Education for user 'Luxwarp'
 ==============================================================
 
 Göteborgs Tekniska Institut
 
 Aug 2008 – May 2011
 
-Learning operating system, native and web development,
-networking, PC-support, and networks.
+Study computer tech program with courses like
+operating system, native and web development, PC-support,
+3D, databases and networks.
 
 https://gti.se                                             1/1
 ______________________________________________________________
@@ -120,7 +121,7 @@ info.renderAs("structured-console");
 ```
 
 ```output
-Work
+# Work for user 'Luxwarp'
 ==============================================================
 
 Freelancer
@@ -138,7 +139,8 @@ Securitas
 
 Jun 2015 – May 2019
 
-Working as a security guard on patrol in Gothenburg and Lerum.
+Working as a security guard on patrol in
+Gothenburg and Lerum.
 
 https://securitas.se                                       2/7
 ______________________________________________________________
@@ -182,14 +184,18 @@ Micropter
 
 April 2010 – Jul 2010
 
-PC-technician and web developer                            6/7
+PC-technician and web developer
+
+https://micropter.se                                       6/7
 ______________________________________________________________
 
 SalesOnNet
 
 Aug 2006 – May 2008
 
-PC-technician                                              7/7
+PC-technician, building and service of desktop computers.
+
+http://www.salesonnet.se                                   7/7
 ______________________________________________________________
 ```
 
@@ -198,7 +204,7 @@ luxwarp@luxlop:~$ sudo shutdown --output-log
 ```
 
 ```output
-Misc
+# Shutdown log, thanks for reading.
 ==============================================================
 
 Languages
@@ -210,9 +216,11 @@ Languages
     * write: Fluently
 
 
-I have driver license for car and have my own car.
+Car
+  * Driver license
+  * Own car
 
-References
+# References
 ==============================================================
 
 Securitas Göteborg

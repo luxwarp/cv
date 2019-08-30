@@ -4,15 +4,20 @@
 
 Mikael 'Luxwarp' Carlsson
 
-Citrongatan 14 B
+**Address**  
+Citrongatan 14 B  
+44155 Alingsås  
+Sweden
 
-44155 Alingsås
-
+**Phone:**  
 +46709393498
 
-mikael.m.carlsson@gmail.com
+**Email:**  
+mikael.m.carlsson@gmail.com  
+luxwarp@codeiolo.org
 
-19900325-1577
+**Birthday:**  
+1990-03-25
 
 ---
 
@@ -20,9 +25,11 @@ mikael.m.carlsson@gmail.com
 
 My name is Mikael Carlsson, I am 28 years old and I live in Alingsås, 50km north of Gothenburg, Sweden.
 
-In my whole life I have been interested in computers, tech and development. My greatest passion is web development. I can build websites, web applications and handle both front-end and back-end development.
+In my whole life I have been interested in computers, tech and development. My greatest passion is web development. I can build websites, web applications and handle both frontend and backend development.
 
-On my spare time when I don’t sit behind the computer I love to walk and train my dog and spending time with my girlfriend.
+Today I mainly work with HTML, CSS, JS for frontend and NodeJS for backend, but in the past I also worked with PHP even if it's not my primary choice today.
+
+On my spare time when I don’t sit behind the computer I love to walk and train my dog and spending time with my fiancee.
 
 I am a positive person who is very stubborn and tries to solve problems that may arise. With the ability to quickly take in new information and knowledge, I quickly learn systems and tasks. I’m always willing to learn new things because the brain can not be full.
 
@@ -32,39 +39,25 @@ I am a positive person who is very stubborn and tries to solve problems that may
 
 I have a lot of knowledge in different areas.
 
-**Web**
-
-HTML: 80%
-
-CSS: 70%
-
-JS / NodeJS: 70%
-
-PHP: 50%
-
-**Frameworks**
-
-VueJS: 60%
-
-ExpressJS: 60%
-
-**Tools**
-
-Git: 70%
-
-NPM: 70%
-
-Inkscape: 50%
-
-VS Code: 65%
-
-**Operating systems**
-
-Ubuntu: 70%
-
-OSX: 65%
-
-Windows: 60%
+| Skill                 | Grade |
+| --------------------- | :---: |
+| **Web**               |
+| HTML                  |  80%  |
+| CSS                   |  70%  |
+| JS / NodeJS           |  70%  |
+| PHP                   |  50%  |
+| **Frameworks**        |
+| VueJS                 |  60%  |
+| ExpressJS             |  60%  |
+| **Tools**             |
+| Git                   |  70%  |
+| NPM                   |  70%  |
+| Inkscape              |  50%  |
+| VS Code               |  65%  |
+| **Operating systems** |
+| Ubuntu                |  70%  |
+| MacOS                 |  65%  |
+| Windows               |  60%  |
 
 ---
 
@@ -74,7 +67,7 @@ Windows: 60%
 
 Aug 2008 – May 2011
 
-Learning operating system, native and web development, networking, PC-support, and networks.
+Study computer tech program with courses like operating system, native and web development, PC-support, 3D, databases and networks.
 
 [Göteborgs Tekniska Institut](https://gti.se)
 
@@ -96,17 +89,23 @@ _Jun 2015 – May 2019_
 
 Working as a security guard on patrol in Gothenburg and Lerum.
 
+[Securitas.se](https://securitas.se)
+
 **Crazyride**
 
 _Nov 2013 – March 2015_
 
 Customer service for web shop.
 
+[Crazyride.se](https://crazyride.se)
+
 **MacSupport**
 
 _Jul 2011 – Jan 2013_
 
 IT Consultant to corporate customers, network management, servers and clients. Also worked a lot with deployment to school clients (K12 / one-to-one system.). Internal IT responsible for mail server, file server, network and cloud services.
+
+[Macsupport.se](https://macsupport.se)
 
 ---
 
@@ -118,17 +117,23 @@ _Oct 2010 – Dec 2010_
 
 Web developer and some internal IT support.
 
+[Warpnine.se](http://www.warpnine.se)
+
 **Micropter**
 
 _April 2010 – Jul 2010_
 
 PC-technician and web developer
 
+[Micropter.se](https://micropter.se)
+
 **SalesOnNet**
 
 _Aug 2006 – May 2008_
 
-PC-technician
+PC-technician, building and service of desktop computers.
+
+[Salesonnet.se](http://www.salesonnet.se)
 
 ---
 
@@ -143,7 +148,10 @@ Languages
   - Speak: Fluently
   - write: Fluently
 
-I have driver license for car and have my own car.
+Car
+
+- Driver license (AM B)
+- Own car
 
 ---
 
@@ -151,18 +159,19 @@ I have driver license for car and have my own car.
 
 **Securitas Göteborg**
 
+John Bohman  
 Group leader
 
-John Bohman
-
-0702997309
+**Phone:**  
++46702997309
 
 **MacSupport**
 
+Jan Ringedal  
 Office manager
 
-Jan Ringedal
-
+**Email:**  
 j.ringedal@macsupport.se
 
-031-7264300
+**Phone:**  
++46317264300
