@@ -2,7 +2,7 @@
 
 ## Info
 
-<img src="./mikael-luxwarp-carlsson-profile.jpg" width="200px" style="float: right">
+<img src="https://raw.githubusercontent.com/luxwarp/cv/master/mikael-luxwarp-carlsson-profile.jpg" width="200px" style="float: right">
 
 Mikael 'Luxwarp' Carlsson
 
