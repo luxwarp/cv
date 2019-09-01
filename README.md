@@ -2,7 +2,7 @@
 
 ## Info
 
-<img src="https://cockpit.codeiolo.org/storage/uploads/2019/08/28/5d669b30d30e620190412_113404.jpg" width="200px" style="float: right">
+<img src="./mikael-luxwarp-carlsson-profile.jpg" width="200px" style="float: right">
 
 Mikael 'Luxwarp' Carlsson
 
