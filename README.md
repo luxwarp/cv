@@ -28,7 +28,7 @@ luxwarp@codeiolo.org
 
 ## About
 
-My name is Mikael Carlsson, I am 28 years old and I live in Alingsås, 50 km north of Gothenburg, Sweden.
+My name is Mikael Carlsson, I am 29 years old and I live in Alingsås, 50 km north of Gothenburg, Sweden.
 
 In my whole life I have been interested in computers, tech and development. My greatest passion is web development. I can build websites, web applications and handle both front-end and back-end development.
 
