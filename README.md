@@ -32,10 +32,9 @@ My name is Mikael Carlsson, I am 29 years old and I live in Alingsås, 50 km nor
 
 In my whole life I have been interested in computers, tech and development. My greatest passion is web development. I can build websites, web applications and handle both front-end and back-end development.
 
-Today I mainly work with HTML, CSS, JS for front-end and NodeJS for back-end, but in the past I also worked with PHP even if it's not my primary choice today.
+Today I mainly work with HTML, CSS, JS for front-end and NodeJS for back-end, but in the past I also worked with PHP even if it's not my primary choice today. In the last couple of month I have also picked up a big interest for Python, both for simple scripting and full applications like cli tools and GUI with GTK.
 
-When it comes to choosing platforms, I always promote Unix / Linux systems so it is an obvious choice for me to run Ubuntu or Debian based systems for clients and servers as well as Android for mobile devices.
-Of course, MacOS and iOS are also included in my thoughts thanks to their base from Unix.
+When it comes to choosing platforms, I always promote Unix / Linux systems so it's an obvious choice for me to run Ubuntu or Manjaro (based on Arch Linux) systems for clients and servers as well as Android for mobile devices. Of course, MacOS and iOS are also included in my thoughts thanks to their base from Unix.
 
 On my spare time when I don’t sit behind the computer I love to walk and train my dog and spending time with my fiancee.
 
@@ -67,6 +66,7 @@ I have a lot of knowledge in different areas.
 | VS Code                     | 65%   |
 | Terminal                    | 70%   |
 | **Operating systems**       |
+| Arch Linux / Manjaro        | 50%   |
 | Ubuntu                      | 70%   |
 | MacOS                       | 65%   |
 | Windows                     | 60%   |
@@ -81,7 +81,6 @@ I have a lot of knowledge in different areas.
 ## Education
 
 **Göteborgs Tekniska Institut**
-
 Aug 2008 – May 2011
 
 Study computer tech program with courses like operating system, native and web development, PC-support, 3D, databases and networks.
