@@ -7,8 +7,8 @@
 Mikael 'Luxwarp' Carlsson
 
 **Address**  
-Citrongatan 14 B  
-44155 Alingsås  
+Talljénvägen 9  
+47231 Svanesund
 Sweden
 
 **Phone:**  
@@ -16,29 +16,27 @@ Sweden
 
 **Email:**  
 mikael.m.carlsson@gmail.com  
-luxwarp@codeiolo.org
+luxwarp@connumin.com
 
 **Birthday:**  
 1990-03-25
 
 **Web**  
-[codeiolo.org/members/luxwarp](https://codeiolo.org/members/luxwarp)
+[connumin.com](https://connumin.com)
 
 ---
 
 ## About
 
-My name is Mikael Carlsson, I am 29 years old and I live in Alingsås, 50 km north of Gothenburg, Sweden.
+My name is Mikael Carlsson, I am 29 years old and I live in Svanesund, Orust, 50 km north of Gothenburg, Sweden.
 
-In my whole life I have been interested in computers, tech and development. My greatest passion is web development. I can build websites, web applications and handle both front-end and back-end development.
+In my whole life I have been interested in computers, tech and development. Today my greatest passion is web development, testing and working with new tech and also help the open source community with support, testing, bug fixing, and translation.
 
-Today I mainly work with HTML, CSS, JS for front-end and NodeJS for back-end, but in the past I also worked with PHP even if it's not my primary choice today. In the last couple of month I have also picked up a big interest for Python, both for simple scripting and full applications like cli tools and GUI with GTK.
+When it comes to choosing platforms, I always promote Unix / Linux systems so it's an obvious choice for me to run Ubuntu or Manjaro (based on Arch Linux) systems for clients servers as well as Android for mobile devices. Of course, MacOS and iOS are also included in my thoughts thanks to their base from Unix.
 
-When it comes to choosing platforms, I always promote Unix / Linux systems so it's an obvious choice for me to run Ubuntu or Manjaro (based on Arch Linux) systems for clients and servers as well as Android for mobile devices. Of course, MacOS and iOS are also included in my thoughts thanks to their base from Unix.
+On my spare time when I don’t sit behind the computer I love to walk and train my dog.
 
-On my spare time when I don’t sit behind the computer I love to walk and train my dog and spending time with my fiancee.
-
-I am a positive person who is very stubborn and tries to solve problems that may arise. With the ability to quickly take in new information and knowledge, I quickly learn new systems and tasks. I’m always willing to learn new things because I think the brain can never be full.
+I am a positive person who is very stubborn and tries to solve problems that may arise. With the ability to quickly take in new information and knowledge, I quickly learn new systems and tasks. I’m always willing to learn new things because I believe that the brain can never be full.
 
 ---
 
@@ -66,7 +64,7 @@ I have a lot of knowledge in different areas.
 | VS Code                     | 65%   |
 | Terminal                    | 70%   |
 | **Operating systems**       |
-| Arch Linux / Manjaro        | 50%   |
+| Arch Linux / Manjaro        | 70%   |
 | Ubuntu                      | 70%   |
 | MacOS                       | 65%   |
 | Windows                     | 60%   |
@@ -96,8 +94,7 @@ _Jun 2013 – present_
 
 Working as a freelance IT consult and web developer. Building web applications and helping people with tech problems.
 
-[Codeiolo.org](https://codeiolo.org)  
-[Public projects @ Github](https://github.com/codeiolo)
+[Connumin.com](https://connumin.com)  
 
 **Securitas**
 _Jun 2015 – May 2019_
