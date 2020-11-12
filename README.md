@@ -28,7 +28,7 @@ luxwarp@connumin.com
 
 ## About
 
-My name is Mikael Carlsson, I am 29 years old and I live in Svanesund, Orust, 50 km north of Gothenburg, Sweden.
+My name is Mikael Carlsson, I am 30 years old and I live in Svanesund, Orust, 50 km north of Gothenburg, Sweden.
 
 In my whole life I have been interested in computers, tech and development. Today my greatest passion is web development, testing and working with new tech and also help the open source community with support, testing, bug fixing, and translation.
 
