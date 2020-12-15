@@ -30,9 +30,9 @@ luxwarp@connumin.com
 
 My name is Mikael Carlsson, I am 30 years old and I live in Svanesund, Orust, 50 km north of Gothenburg, Sweden.
 
-In my whole life I have been interested in computers, tech and development. Today my greatest passion is web development, testing and working with new tech and also help the open source community with support, testing, bug fixing, and translation.
+In my whole life I have been interested in computers, tech and development. Today my greatest passion is web development, testing and working with new tech and also help the open source community with support, testing, bug fixing, and translations.
 
-When it comes to choosing platforms, I always promote Unix / Linux systems so it's an obvious choice for me to run Ubuntu or Manjaro (based on Arch Linux) systems for clients servers as well as Android for mobile devices. Of course, MacOS and iOS are also included in my thoughts thanks to their base from Unix.
+When it comes to choosing platforms, I always promote Unix / Linux systems so it's an obvious choice for me to run Ubuntu or Manjaro (based on Arch Linux) systems for clients or servers as well as Android for mobile devices. Of course, MacOS and iOS are also included in my thoughts thanks to their base from Unix.
 
 On my spare time when I don’t sit behind the computer I love to walk and train my dog.
 
@@ -94,7 +94,14 @@ _Jun 2013 – present_
 
 Working as a freelance IT consult and web developer. Building web applications and helping people with tech problems.
 
-[Connumin.com](https://connumin.com)  
+[Connumin.com](https://connumin.com)
+
+**Rödets Gård**
+_Mar 2020 - present_
+
+Responsible for all IT systems like cashregister, network, and rebuilding the webshop from the ground up.
+
+[Rodetsgard.se](https://rodetsgard.se)
 
 **Securitas**
 _Jun 2015 – May 2019_
@@ -164,7 +171,7 @@ Car
 
 ## References
 
-| Company    | Contact      | Title          | Phone        | Email                    |
-| ---------- | ------------ | -------------- | ------------ | ------------------------ |
-| Securitas  | John Bohman  | Group leader   | +46702997309 | john.bohman@securitas.se |
-| MacSupport | Jan Ringedal | Office manager | +46317264300 | j.ringedal@macsupport.se |
+| Company     | Contact         | Title        | Phone        | Email                         |
+| ----------- | --------------- | ------------ | ------------ | ----------------------------- |
+| Securitas   | John Bohman     | Group leader | +46702997309 | john.bohman@securitas.se      |
+| Rödets Gård | Mia Richardsson | CEO          | +46707334098 | mia.richardsson@rodetsgard.se |
